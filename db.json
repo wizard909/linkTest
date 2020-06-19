@@ -2,21 +2,26 @@
     
      "Redireccion": [
        {
-             "Logeo":  "",
+             "Logeo":  "https://compragamer.com/",
              "ErrorLogeo":  "https://compragamer.com/",
-             "MisSolicitudes" :  "Pedrito0",
-             "NoHaySolicitudes":  "987hgf0",
-             "NuevoSolicitud":  "falso",
-           	 "Solicitud1": "",
-           	 "Solicitud2": "",
-           	 "Solicitud3": ""
+             "MisSolicitudes" :  "https://compragamer.com/",
+             "NoHaySolicitudes":  "https://compragamer.com/",
+             "NuevoSolicitud":  "https://compragamer.com/",
+           	 "Solicitud1": "https://compragamer.com/",
+           	 "Solicitud2": "https://compragamer.com/",
+           	 "Solicitud3": "https://compragamer.com/",
+           	 "Cancelar": "https://compragamer.com/",
+           	 "Guardar": "https://compragamer.com/",
+           	 "CrearNuevo": "https://compragamer.com/"
        },
        {
-             "FechaIngreso":  "2020-01-03",
-             "Avatar":  "https://gravatar.com/avatar/798fd97c964aefa1832da44ee31f328a?s=400&d=robohash&r=x",
-             "Nombre" :  "crisRob",
-             "Contrasenia":  "rob468f",
-             "Activo":  "verdadero"  
-       }
+             "Inicio":  "https://www.google.com.ar/",
+             "MisSolicitudes":  "https://www.google.com.ar/",
+             "Usuarios" :  "https://www.google.com.ar/",
+             "Salir":  "https://www.google.com.ar/"  
+       },
+       {
+           	 "Usuarios": ""
+       }  
    ]
 }
