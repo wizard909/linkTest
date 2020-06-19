@@ -21,7 +21,16 @@
              "Salir":  "https://www.google.com.ar/"  
        },
        {
-           	 "Usuarios": ""
+           	 "Usuario1": "https://www.youtube.com/?gl=AR&hl=es-419",
+             "Usuario2": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "Usuario3": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "NuevoUsuario": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "MisUsuarios": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "Bienvenida": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "NoHayUsuario": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "Guardar": "https://www.youtube.com/?gl=AR&hl=es-419",
+             "Cancelar": "https://www.youtube.com/?gl=AR&hl=es-419",
+           	 "CrearNuevoUsuario": "https://www.youtube.com/?gl=AR&hl=es-419"
        }  
    ]
 }
