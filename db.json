@@ -2,35 +2,35 @@
     
      "Redireccion": [
        {
-             "Logeo":  "https://compragamer.com/",
-             "ErrorLogeo":  "https://compragamer.com/",
-             "MisSolicitudes" :  "https://compragamer.com/",
-             "NoHaySolicitudes":  "https://compragamer.com/",
-             "NuevoSolicitud":  "https://compragamer.com/",
-           	 "Solicitud1": "https://compragamer.com/",
-           	 "Solicitud2": "https://compragamer.com/",
-           	 "Solicitud3": "https://compragamer.com/",
-           	 "Cancelar": "https://compragamer.com/",
-           	 "Guardar": "https://compragamer.com/",
-           	 "CrearNuevo": "https://compragamer.com/"
+             "Logeo":  "https://condescending-sinoussi-02a503.netlify.app",
+             "ErrorLogeo":  "https://vigilant-shannon-5fc16a.netlify.app",
+             "MisSolicitudes" :  "https://hungry-heisenberg-11b416.netlify.app",
+             "NoHaySolicitudes":  "https://pedantic-ride-9a11b8.netlify.app/",
+             "NuevoSolicitud":  "https://determined-swirles-9b518d.netlify.app/",
+           	 "Solicitud1": "https://cocky-hodgkin-a48701.netlify.app/",
+           	 "Solicitud2": "https://adoring-albattani-ce019f.netlify.app/",
+           	 "Solicitud3": "https://elegant-kirch-dc564e.netlify.app/",
+           	 "Cancelar": "https://hungry-heisenberg-11b416.netlify.app",
+           	 "Guardar": "https://hungry-heisenberg-11b416.netlify.app",
+           	 "CrearNuevo": "https://determined-swirles-9b518d.netlify.app/"
        },
        {
-             "Inicio":  "https://www.google.com.ar/",
-             "MisSolicitudes":  "https://www.google.com.ar/",
-             "Usuarios" :  "https://www.google.com.ar/",
-             "Salir":  "https://www.google.com.ar/"  
+             "Inicio":  "https://reverent-tereshkova-fb8f3b.netlify.app",
+             "MisSolicitudes":  "https://hungry-heisenberg-11b416.netlify.app",
+             "Usuarios" :  "https://practical-noyce-167f79.netlify.app",
+             "Salir":  "https://condescending-sinoussi-02a503.netlify.app"  
        },
        {
-           	 "Usuario1": "https://www.youtube.com/?gl=AR&hl=es-419",
-             "Usuario2": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "Usuario3": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "NuevoUsuario": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "MisUsuarios": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "Bienvenida": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "NoHayUsuario": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "Guardar": "https://www.youtube.com/?gl=AR&hl=es-419",
-             "Cancelar": "https://www.youtube.com/?gl=AR&hl=es-419",
-           	 "CrearNuevoUsuario": "https://www.youtube.com/?gl=AR&hl=es-419"
+           	 "Usuario1": "https://stupefied-poincare-b73d46.netlify.app",
+             "Usuario2": "https://competent-heisenberg-4bd20c.netlify.app",
+           	 "Usuario3": "https://trusting-ptolemy-74dca5.netlify.app",
+           	 "NuevoUsuario": "https://admiring-galileo-d022a8.netlify.app",
+           	 "MisUsuarios": "https://practical-noyce-167f79.netlify.app",
+           	 "Bienvenida": "https://reverent-tereshkova-fb8f3b.netlify.app",
+           	 "NoHayUsuario": "https://objective-torvalds-b31ca3.netlify.app",
+           	 "Guardar": "https://practical-noyce-167f79.netlify.app",
+             "Cancelar": "https://practical-noyce-167f79.netlify.app",
+           	 "CrearNuevoUsuario": "https://admiring-galileo-d022a8.netlify.app"
        }  
    ]
 }
